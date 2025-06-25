@@ -1,9 +1,7 @@
----
-layout: default
-title: "AFK"
+
 ---
 
-# Welcome to AFK
+# About Us
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet luctus dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer ac eros eget ipsum dictum pharetra.
 
@@ -11,10 +9,10 @@ Nulla facilisi. Suspendisse potenti. Nam consequat, nisi in malesuada accumsan, 
 
 ## Features
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Morbi sit amet luctus dui
-- Vestibulum ante ipsum primis
+* Lorem ipsum dolor sit amet
+* Consectetur adipiscing elit
+* Morbi sit amet luctus dui
+* Vestibulum ante ipsum primis
 
 ## Get Started
 
