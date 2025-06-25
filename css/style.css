@@ -27,6 +27,7 @@ nav a {
     color: plum;
     text-decoration: none;
     display: block;
+    height: fit-content;
     padding: 2px;
     border-radius: 4px;
     background-color: #333;
