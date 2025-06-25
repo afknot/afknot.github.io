@@ -12,9 +12,4 @@ I specialize in:
 * Working with frameworks like **React** and **Vue**
 
 
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
-
-
 Thanks for visiting!
