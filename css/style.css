@@ -4,9 +4,27 @@ body {
     font-family: monospace;
 }
 
-section {
+header,
+section,
+footer {
     max-width: 1024px;
     margin: 3em auto;
+}
+
+nav a:link {
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px;
+    border-radius: 4px;
+    background-color: #333;
+}
+
+nav a:hover {
+    color: chartreuse;
+    background-color: darkolivegreen;
+}
+
+section {
     padding: 0 1em;
     border-left: 3px solid #333;
 }
