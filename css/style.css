@@ -1,3 +1,12 @@
 body {
-    color: fuchsia;
+    background-color: #222;
+    color: greenyellow;
+    font-family: monospace;
+}
+
+section {
+    max-width: 1024px;
+    margin: 3em auto;
+    padding: 0 1em;
+    border-left: 3px solid #333;
 }
