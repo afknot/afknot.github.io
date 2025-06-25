@@ -12,6 +12,7 @@ footer {
 }
 
 nav a {
+    color: greenyellow;
     text-decoration: none;
     display: inline-block;
     padding: 2px;
@@ -23,6 +24,11 @@ nav a:hover {
     color: chartreuse;
     background-color: darkolivegreen;
 }
+
+nav a:visited {
+    color: rgb(99, 193, 5);
+}
+
 
 section {
     padding: 0 1em;
