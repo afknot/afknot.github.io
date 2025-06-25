@@ -11,10 +11,20 @@ footer {
     margin: 3em auto;
 }
 
+header {
+    display: flex;
+    gap: 32px; 
+}
+
+nav {
+    display: flex;
+    gap: 8px; 
+}
+
 nav a {
     color: plum;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     padding: 2px;
     border-radius: 4px;
     background-color: #333;
