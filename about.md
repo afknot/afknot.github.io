@@ -1,6 +1,3 @@
-
----
-
 # About Us
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet luctus dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer ac eros eget ipsum dictum pharetra.
